@@ -1,4 +1,4 @@
-## Helo , my name's Jason
+## Hello , my name's Jason
 
 - 🔭 I’m currently in the process of setting up a cople of physical models and modded hardware pieces.
 - 🌱 As of right now I'm only a beginner at C++, Java, and semi-decent at html, great at working with cisco hardware, and a newbie at Juniper( I blame my roommate she also works IT)
